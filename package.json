@@ -2,7 +2,7 @@
   "name": "my_bot_user_console",
   "version": "1.0.0",
   "description": "",
-  "main": "1.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

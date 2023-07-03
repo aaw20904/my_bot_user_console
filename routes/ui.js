@@ -3,7 +3,7 @@ let router = express.Router();
 
 
 router.get('/info',(req, res)=>{
-    res.json({time: new Date().toLocaleTimeString()});
+    res.render('ui.ejs',{});
 })
 
 module.exports = router;
